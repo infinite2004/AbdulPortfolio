@@ -1,4 +1,8 @@
 
+.body1{
+background-color: antiquewhite;
+
+}
 h1 {text-align: center;}
 
 .aboutMe{
@@ -6,15 +10,33 @@ h1 {text-align: center;}
 	justify-content: center;
 	align-items: center;
   }
-  
-  .resume{
+.aboutmee{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-  }
+	position: relative; top: -80px;
+}
+.resume{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.resumee{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative; top: -80px;
+}
 
-  .interests{
+.interests{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-  }
+}
+.interestss{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative; top: -80px;
+
+}
