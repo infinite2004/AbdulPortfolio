@@ -1,0 +1,20 @@
+
+h1 {text-align: center;}
+
+.aboutMe{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  }
+  
+  .resume{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  }
+
+  .interests{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  }
